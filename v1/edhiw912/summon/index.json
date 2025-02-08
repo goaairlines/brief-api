@@ -1,7 +1,7 @@
 {
     "id": "sum123",
     "revision": 6,
-    "lastChanged": "2024-04-15T10:44:00+0000",
+    "lastChanged": "2024-04-15T10:44:00Z",
     "app_versions": { "low": 1.0, "high": 2.0 },
     "docs": [
         { "id": "acks123", "revision": 6, "type": "Acknowledgements" },
