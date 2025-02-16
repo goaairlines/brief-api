@@ -1,13 +1,13 @@
 {
     "id": "sum123",
-    "revision": 6,
+    "revision": 7,
     "lastChanged": "2024-04-15T10:44:00Z",
     "app_versions": { "low": 1.0, "high": 2.0 },
     "docs": [
         { "id": "acks123", "revision": 6, "type": "Acknowledgements" },
         { "id": "faqs123", "revision": 4, "type": "FAQs" },
         { "id": "gt123", "revision": 1, "type": "Generic Terms" },
-        { "id": "pp123", "revision": 3, "type": "Privacy Policy" },
-        { "id": "tc123", "revision": 8, "type": "Terms and Conditions" }
+        { "id": "pp123", "revision": 4, "type": "Privacy Policy" },
+        { "id": "tc123", "revision": 9, "type": "Terms and Conditions" }
     ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "pp123",
-  "revision": 3,
+  "revision": 4,
   "lastChanged": "2024-04-15T10:44:00Z",
   "app_versions": {
     "low": 1.0,
@@ -11,7 +11,7 @@
   "toggles": [
     {
       "id": "tg123",
-      "revision": 1,
+      "revision": 2,
       "lastChanged": "2024-04-15T10:44:00Z",
       "app_versions": {
         "low": 1.0,
@@ -19,19 +19,19 @@
       },
       "title": "A very fancy heading",
       "description": "A more sophisticated definition",
-      "is_on": true
+      "initial_state": true
     },
     {
       "id": "tg456",
-      "revision": 1,
+      "revision": 2,
       "lastChanged": "2024-04-15T10:44:00Z",
       "app_versions": {
         "low": 1.0,
         "high": 2.0
       },
-      "title": "A very fancy heading",
-      "description": "A more sophisticated definition",
-      "is_on": false
+      "title": "An even more fancy heading",
+      "description": "A not so sophisticated definition",
+      "initial_state": false
     }
   ]
 }
