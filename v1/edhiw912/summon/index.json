@@ -1,13 +1,13 @@
 {
     "id": "sum123",
-    "revision": 7,
+    "revision": 8,
     "lastChanged": "2024-04-15T10:44:00Z",
     "app_versions": { "low": 1.0, "high": 2.0 },
     "docs": [
-        { "id": "acks123", "revision": 6, "type": "Acknowledgements" },
-        { "id": "faqs123", "revision": 4, "type": "FAQs" },
-        { "id": "gt123", "revision": 1, "type": "Generic Terms" },
-        { "id": "pp123", "revision": 4, "type": "Privacy Policy" },
-        { "id": "tc123", "revision": 9, "type": "Terms and Conditions" }
+        { "id": "acks123", "revision": 6, "type": "Acknowledgements", "nav_title": "Thanks to..." },
+        { "id": "faqs123", "revision": 4, "type": "FAQs", "nav_title": "Questions you always wanted to ask" },
+        { "id": "gt123", "revision": 1, "type": "Generic Terms", "nav_title": "Nothing special" },
+        { "id": "pp123", "revision": 4, "type": "Privacy Policy", "nav_title": "Important stuff mkay" },
+        { "id": "tc123", "revision": 9, "type": "Terms and Conditions", "nav_title": "Sign here _______" }
     ]
 }
