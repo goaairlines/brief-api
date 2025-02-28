@@ -8,6 +8,7 @@
         { "id": "faqs123", "revision": 4, "type": "FAQs", "nav_title": "Questions you always wanted to ask" },
         { "id": "gt123", "revision": 1, "type": "Generic Terms", "nav_title": "Nothing special" },
         { "id": "pp123", "revision": 4, "type": "Privacy Policy", "nav_title": "Important stuff mkay" },
-        { "id": "tc123", "revision": 9, "type": "Terms and Conditions", "nav_title": "Sign here _______" }
+        { "id": "tc123", "revision": 9, "type": "Terms and Conditions", "nav_title": "Sign here _______" },
+        { "id": "sp123", "revision": 1, "type": "Support", "nav_title": "!HELP!" }
     ]
 }

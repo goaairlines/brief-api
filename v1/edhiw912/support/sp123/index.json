@@ -1,0 +1,10 @@
+{
+    "id": "sp123",
+    "revision": 1,
+    "lastChanged": "2024-04-15T10:44:00Z",
+    "app_versions": { "low": 1.0, "high": 2.0 },
+    "mail_recipient": "support+brief@example.com",
+    "mail_subject": "Help!",
+    "mail_body": "Im stuck...",
+    "append_device_info": true
+}
